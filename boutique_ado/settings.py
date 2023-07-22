@@ -28,7 +28,7 @@ DEBUG = 'DEVELOPMENT' in os.environ
 
 ALLOWED_HOSTS = ['boutiqueado-test-6efd2bade2ce.herokuapp.com',
                  'localhost',
-                 '8000-attilafawal-boutiqueado-35ky49wi2zo.ws-us102.gitpod.io',
+                 '8000-attilafawal-boutiqueado-nzzh6pm5y6o.ws-us102.gitpod.io',
                  ]
 
 
